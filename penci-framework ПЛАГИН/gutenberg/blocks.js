@@ -1,9 +1,0 @@
-import './block/text-padding';
-import './block/button';
-import './block/recipe';
-import './block/review';
-import './block/review';
-import './block/related-posts';
-import './block/recipe-index';
-import './block/blockquote';
-import './wp-imports';
